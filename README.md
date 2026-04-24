@@ -136,10 +136,9 @@ Founded between 2016 and 2020, we have grown from a bold regional vision into a 
 
 | &nbsp; | Brand / Subsidiary | Industry | Region | Description |
 |---|---|---|---|---|
-| 🔶 | `Brand Name Here` | Entertainment & Media | Philippines · Middle East | *One-line description of this brand* |
-| 🔶 | `Brand Name Here` | Technology & Software | USA · Global | *One-line description of this brand* |
-| 🔶 | `Brand Name Here` | Events & Live Shows | Asia · Middle East | *One-line description of this brand* |
-| 🔶 | `Brand Name Here` | Investment & Holding | Global | *One-line description of this brand* |
+| 🔶 | `FunAsia Entertainment` | Entertainment & Media | Philippines · Middle East | *One-line description of this brand* |
+| 🔶 | `FunAsia Digital` | Technology & Software | USA · Global | *One-line description of this brand* |
+| 🔶 | `FunAsia Events` | Events & Live Shows | Asia · Middle East | *One-line description of this brand* |
 
 </div>
 
