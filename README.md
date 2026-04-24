@@ -136,9 +136,9 @@ Founded between 2016 and 2020, we have grown from a bold regional vision into a 
 
 | &nbsp; | Brand / Subsidiary | Industry | Region | Description |
 |---|---|---|---|---|
-| 🔶 | `FunAsia Entertainment` | Entertainment & Media | Philippines · Middle East | *One-line description of this brand* |
-| 🔶 | `FunAsia Digital` | Technology & Software | USA · Global | *One-line description of this brand* |
-| 🔶 | `FunAsia Events` | Events & Live Shows | Asia · Middle East | *One-line description of this brand* |
+| 🔶 | `FunAsia Entertainment` | Entertainment & Media 
+| 🔶 | `FunAsia Digital` | Technology & Software 
+| 🔶 | `FunAsia Events` | Events & Live Shows 
 
 </div>
 
@@ -208,9 +208,10 @@ Founded between 2016 and 2020, we have grown from a bold regional vision into a 
 <br/><br/>
 
 ```
-  📍 Philippines  ──────────────  APAC Headquarters & Content Production Hub
-  📍 USA / Global ──────────────  International Operations & Strategic Partnerships
-  📍 Middle East  ──────────────  Regional Expansion & Live Entertainment
+  📍 Philippines
+  📍 USA / Global
+  📍 Middle East
+  📍 India
 ```
 
 </div>
@@ -222,7 +223,7 @@ Founded between 2016 and 2020, we have grown from a bold regional vision into a 
 
 <br/>
 
-## 💼 &nbsp; We're Hiring
+<!--## 💼 &nbsp; We're Hiring
 
 **FunAsia Network is growing fast.** We're seeking extraordinary talent to join our mission across entertainment, technology, and live experiences.
 
@@ -248,7 +249,7 @@ Founded between 2016 and 2020, we have grown from a bold regional vision into a 
 </div>
 
 <br/>
-
+-->
 <!-- ░░░░░░░░░░░░░░░░░░░░  DIVIDER  ░░░░░░░░░░░░░░░░░░░░ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=2" />
 
