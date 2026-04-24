@@ -155,7 +155,7 @@ Founded between 2016 and 2020, we have grown from a bold regional vision into a 
 
 <!-- ✏️ REPLACE each block below with real names, titles, and optionally headshot images -->
 <!-- 🖼️ To add headshots: upload photos to assets/team/ and use:
-     <img src="./assets/team/name.jpg" width="80" />  -->
+     <img src="./assets/team/name.jpg" width="80" />  
 
 <div align="center">
 
@@ -183,7 +183,7 @@ Founded between 2016 and 2020, we have grown from a bold regional vision into a 
     </td>
   </tr>
 </table>
-
+-->
 </div>
 
 <br/>-->
