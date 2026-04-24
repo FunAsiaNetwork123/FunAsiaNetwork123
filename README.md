@@ -149,7 +149,7 @@ Founded between 2016 and 2020, we have grown from a bold regional vision into a 
 
 <br/>
 
-## 👑 &nbsp; Leadership Team
+<!--## 👑 &nbsp; Leadership Team
 
 > *The visionaries steering FunAsia Network and Perfect Group Holding toward a global future.*
 
@@ -186,7 +186,7 @@ Founded between 2016 and 2020, we have grown from a bold regional vision into a 
 
 </div>
 
-<br/>
+<br/>-->
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  DIVIDER  ░░░░░░░░░░░░░░░░░░░░ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=2" />
